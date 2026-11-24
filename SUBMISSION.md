@@ -44,3 +44,5 @@ The sample shows Tier 1 credit, 9980 bps uptime, 86 downtime minutes of 43200, 1
 - Portal Projects form filled and left ready for interactive reCAPTCHA and final
   submission confirmation on 2026-11-24. Screenshot:
   `../artifacts/sla_project_form_ready.png`.
+- Submitted successfully on 2026-11-24 and visible in **My submissions** as
+  **SLA Uptime Credit Console**, category **Projects**, status **Pending review**.
