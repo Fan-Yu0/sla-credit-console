@@ -35,3 +35,12 @@ The sample shows Tier 1 credit, 9980 bps uptime, 86 downtime minutes of 43200, 1
 - Contract: https://explorer-studio.genlayer.com/address/0x024C5EC0B21D9d349A57259e37398a6A16524562
 - Underlying contract: https://github.com/Fan-Yu0/sla-credit-adjudicator
 - Required evidence: https://github.com/Fan-Yu0/sla-credit-console
+
+## Submission status
+
+- Live site verified on 2026-11-24: Tier 1, 99.80% uptime, 86 minutes downtime,
+  10% credit, and `is_credit_owed = true` for `nw-2026-11`.
+- `npm run check`: lint clean, 25 tests passed, production build successful.
+- Portal Projects form filled and left ready for interactive reCAPTCHA and final
+  submission confirmation on 2026-11-24. Screenshot:
+  `../artifacts/sla_project_form_ready.png`.
