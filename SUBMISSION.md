@@ -1,4 +1,4 @@
-# Portal submission draft - publish GitHub Pages before submitting
+# Portal submission draft
 
 ## Category
 

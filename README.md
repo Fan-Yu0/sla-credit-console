@@ -4,8 +4,7 @@ A complete GenLayer application for machine-to-machine service-level agreements.
 Buyers register a public vendor status page, required uptime, and billing period;
 anyone can trigger a validator-backed assessment and price the resulting service credit.
 
-**GitHub Pages URL:** https://Fan-Yu0.github.io/sla-credit-console/
-Publish with `npm run deploy` before using this URL for a submission.
+**Live app:** https://Fan-Yu0.github.io/sla-credit-console/
 
 ## Live contract and sample
 
